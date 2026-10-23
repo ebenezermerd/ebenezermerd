@@ -57,5 +57,3 @@
 </details>
 
 <a href="mailto:ebenezermerd@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><img src="assets/footer-light.svg" alt="Say hello! Available for freelance opportunities and collaborations at ebenezermerd@gmail.com" width="100%"></picture></a>
-
-<p align="center"><sub>Drawn by hand, by code: <a href="scripts/draw.mjs">scripts/draw.mjs</a> with rough.js, Caveat and Patrick Hand.</sub></p>
