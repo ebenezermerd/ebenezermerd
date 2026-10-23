@@ -26,14 +26,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/town-dark.svg"><img src="assets/town-light.svg" alt="My most recently pushed public repos drawn as a street of buildings" width="100%"></picture>
 
-<details>
-<summary><b>How the town is drawn</b></summary>
-<br>
-
-Every Monday a [GitHub Action](.github/workflows/town.yml) reads my public repos and redraws this street with [rough.js](https://roughjs.com). Each building is a repo, its height grows with the repo's size, its roof shows the main language and the red flag marks the one I pushed to last. The lettering is the Caveat and Patrick Hand fonts from my portfolio, turned into outlines so the picture needs nothing from the outside.
-
-</details>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/heading-toolbox-dark.svg"><img src="assets/heading-toolbox-light.svg" alt="03 the toolbox: what I reach for" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg"><img src="assets/toolbox-light.svg" alt="Frontend: React, Next.js, TypeScript, Tailwind CSS, three.js. Backend: Laravel, Node.js, Express, FastAPI, Python. Data: MySQL, PostgreSQL, MongoDB, Prisma, Drizzle. Mobile and cloud: Flutter, Docker, Google Cloud, Vercel, Telegram bots." width="100%"></picture>
