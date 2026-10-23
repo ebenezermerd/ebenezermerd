@@ -1,0 +1,12 @@
+{
+  "name": "ebenezermerd",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "draw": "node scripts/draw.mjs"
+  },
+  "devDependencies": {
+    "opentype.js": "1.3.4",
+    "roughjs": "4.6.6"
+  }
+}
