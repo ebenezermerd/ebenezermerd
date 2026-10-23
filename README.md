@@ -1,5 +1,3 @@
-<!-- every picture here is drawn by scripts/draw.mjs; edit that, then run npm run draw -->
-
 <a href="https://ebenezermerd.me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" alt="Abenezer Merdekios, Software Engineer. Full stack developer crafting responsive, business ready web apps with React, Next.js and Laravel." width="100%"></picture></a>
 
 <p align="center">
